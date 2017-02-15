@@ -6,6 +6,10 @@ public class firstPgm {
 	
 	{
 		System.out.println("yoo hii wassap");
+		
+		System.out.println("Test1");
+		
+		
 		}
 
 }
