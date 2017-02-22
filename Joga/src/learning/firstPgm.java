@@ -7,7 +7,7 @@ public class firstPgm {
 	{
 		System.out.println("yoo hii wassap");
 		
-		System.out.println("Test1");
+		System.out.println("Test1222");
 		
 		
 		}
